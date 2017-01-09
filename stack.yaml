@@ -1,0 +1,9 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+extra-deps:
+- cond-0.4.1.1
+- hArduino-1.1
+- serialport-0.4.7
+resolver: lts-7.15
